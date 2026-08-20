@@ -18,19 +18,67 @@ I am a Computer Science Engineering student working towards becoming a DevOps En
 - 📊 Monitoring & Automation
 
 ---
+📚 DevOps Learning Roadmap
 
-📚 Learning Roadmap
+01. 🐧 Linux
 
-Stage| Technology| Status
-1| Linux| 🟡 Learning
-2| Git & GitHub| 🟢 Practicing
-3| Docker| 🔴 Not Started
-4| CI/CD| 🔴 Not Started
-5| AWS| 🔴 Not Started
-6| Kubernetes| 🔴 Not Started
-7| Terraform| 🔴 Not Started
-8| Monitoring| 🔴 Not Started
+Status: 🟡 Learning
+Learn Linux commands, file management, permissions, processes, networking, and shell scripting.
 
+⬇️
+
+02. 🔧 Git & GitHub
+
+Status: 🟢 Practicing
+Learn Git commands, branches, merging, pull requests, SSH, and GitHub workflows.
+
+⬇️
+
+03. 🐳 Docker
+
+Status: 🔴 Not Started
+Learn images, containers, Dockerfiles, Docker Compose, volumes, and networking.
+
+⬇️
+
+04. ⚙️ CI/CD
+
+Status: 🔴 Not Started
+Learn continuous integration, continuous deployment, automated testing, and deployment pipelines using GitHub Actions and Jenkins.
+
+⬇️
+
+05. ☁️ AWS Cloud
+
+Status: 🔴 Not Started
+Learn EC2, S3, IAM, VPC, Load Balancer, and CloudWatch.
+
+⬇️
+
+06. ☸️ Kubernetes
+
+Status: 🔴 Not Started
+Learn Pods, Deployments, Services, ConfigMaps, Secrets, Namespaces, and Kubernetes networking.
+
+⬇️
+
+07. 🏗️ Terraform
+
+Status: 🔴 Not Started
+Learn Infrastructure as Code, Providers, Resources, Variables, Outputs, and Terraform State.
+
+⬇️
+
+08. 📊 Monitoring & Automation
+
+Status: 🔴 Not Started
+Learn monitoring, logging, automation, and DevOps best practices.
+
+---
+
+🎯 My DevOps Journey
+
+Learn → Practice → Build → Automate → Deploy → Improve 🚀
 ---
 
 🐧 Linux
